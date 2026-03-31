@@ -1,7 +1,5 @@
-# This .gitignore file should be placed at the root of your Unity project directory
-#
-# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
-#
+# This .gitignore file was made from the Github .gitignore Unity template with some additions
+
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
@@ -97,3 +95,9 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# JetBrains
+.idea/
+
+# macOS
+.DS_Store
