@@ -1,13 +1,13 @@
 # This .gitignore file was made from the Github .gitignore Unity template with some additions
 
 .utmp/
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/xr-unity-project/[Ll]ibrary/
+/xr-unity-project/[Tt]emp/
+/xr-unity-project/[Oo]bj/
+/xr-unity-project/[Bb]uild/
+/xr-unity-project/[Bb]uilds/
+/xr-unity-project/[Ll]ogs/
+/xr-unity-project/[Uu]ser[Ss]ettings/
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
