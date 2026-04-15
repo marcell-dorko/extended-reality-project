@@ -8,14 +8,6 @@
 /xr-unity-project/[Bb]uilds/
 /xr-unity-project/[Ll]ogs/
 /xr-unity-project/[Uu]ser[Ss]ettings/
-
-/space/[Ll]ibrary/
-/space/[Tt]emp/
-/space/[Oo]bj/
-/space/[Bb]uild/
-/space/[Bb]uilds/
-/space/[Ll]ogs/
-/space/[Uu]ser[Ss]ettings/
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
