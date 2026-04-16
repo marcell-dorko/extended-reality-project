@@ -1,0 +1,1 @@
+/Users/marcell/Developer/Unity/extended-reality-project/xr-unity-project/Library/Bee/artifacts/Android/il2cppOutput/cpp
